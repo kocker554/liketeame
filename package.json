@@ -1,0 +1,22 @@
+{
+  "name": "liketeame",
+  "version": "1.0.0",
+  "description": "OSS for tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kocker554/liketeame.git"
+  },
+  "dependencies": {
+    "tealikelove": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kocker554/liketeame/issues"
+  },
+  "homepage": "https://github.com/kocker554/liketeame#readme"
+}
